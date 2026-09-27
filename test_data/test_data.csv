@@ -1,0 +1,4 @@
+test_case,email,password,product
+valid_login,purba2627@gmail.com,ABCD,Blue Top
+invalid_login,invalid@gmail.com,hhbb,Blue Top
+search_product,purba2627@gmail.com,ABCD,Blue Top
